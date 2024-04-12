@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+img[src="joe.png"] {
+    z-index: 1;
+}
+
+#pipe1 { top: 110px; left: 0vw; }
+#pipe2 { top: 110px; left: 30vw; }
+#pipe3 { top: 110px; left: 60vw; }
+#pipe4 { top: 50vh; left: 0vw; }
+#pipe5 { top: 50vh; left: 30vw; }
+#pipe6 { top: 50vh; left: 60vw; }
+#pipe7 { top: 80%; left: 0vw; }
+#pipe8 { top: 80%; left: 30vw; }
+#pipe9 { top: 80%; left: 60vw; }
